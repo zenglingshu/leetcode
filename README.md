@@ -1,2 +1,1 @@
-# leetcode
-leetcode algorithm
+leetcode algorithm and other code
